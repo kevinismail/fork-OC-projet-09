@@ -95,7 +95,7 @@ body {
 }
 
 #gallery {
-	/*	min-height: 100vh; */
+	/*	min-height: 100vh; ca m'a l'air vide ici...*/
 }
 .title{
 	text-align: center;
@@ -106,7 +106,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #a49c50;
+	background-color: #5C572E;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
